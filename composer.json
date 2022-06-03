@@ -1,0 +1,19 @@
+{
+    "name": "lelyuk2002/my-theme",
+    "description": "Theme which change logo",
+    "type": "library",
+    "license": "proprietary",
+    "autoload": {
+        "psr-4": {
+            "Lelyuk2002\\MyTheme\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "sasha",
+            "email": "lelyk2002@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
